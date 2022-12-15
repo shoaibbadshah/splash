@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="blue">#dde332</color>
+    <!-- <color name="blue">#dde332</color> -->
+    <color name="blue">#0054A2</color>
+    
+  <color name="app_bg">#424242</color>
+  <color name="splashscreen_bg">#424242</color>
 </resources>
